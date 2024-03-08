@@ -12,7 +12,7 @@
 
 ##OUTPUT VIDEO:
 
-
+fake news classification.mp4.mp4
 
 ##Machine Learning Models used:
 
