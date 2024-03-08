@@ -1,6 +1,6 @@
 # fake-news-classification-ML-PROJECT
 
-##FAKE NEWS:
+## FAKE NEWS:
 
 ####fake news or information disorder is false or misleading information presented as news. Fake news often has the aim of damaging the reputation of a person or entity, or making money through advertising revenue. Although false news has always been spread throughout history, the term "fake news" was first used in the 1890s when sensational reports in newspapers were common. Nevertheless, the term does not have a fixed definition and has been applied broadly to any type of false information presented as news. It has also been used by high-profile people to apply to any news unfavorable to them. Further, disinformation involves spreading false information with harmful intent and is sometimes generated and propagated by hostile foreign actors, particularly during elections. In some definitions, fake news includes satirical articles misinterpreted as genuine, and articles that employ sensationalist or clickbait headlines that are not supported in the text. Because of this diversity of types of false news, researchers are beginning to favour information disorder as a more neutral and informative term.
 
