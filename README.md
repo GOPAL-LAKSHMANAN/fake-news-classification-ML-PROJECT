@@ -6,7 +6,7 @@
 
 ## About Dataset:
 
-#### To train a model, we need data. One popular dataset for fake news classification is available on Kaggle1. It includes two dataset which is Real and Fake news and had details such as title, text, subject, date .
+#### To train a model, we need data. One popular dataset for fake news classification is available on Kaggle1. It includes two dataset which is Real and Fake news and had details such as title, text, subject, date. You can explore this dataset to build and evaluate machine learning models for detecting fake news.
 
 #### Kaggle Dataset URL: https://www.kaggle.com/datasets/bhavikjikadara/fake-news-detection
 
@@ -28,36 +28,36 @@ https://github.com/GOPAL-LAKSHMANAN/fake-news-classification-ML-PROJECT/assets/1
 
 ## Approaches:
 
-#### Importing libraries:
+### Importing libraries:
 
 ####    First we need to import the required libraries using IMPORT function to use there functionalities.
 
-#### Importing Dataset:
+### Importing Dataset:
 
 ####    Select a dataset that you want to work with. Datasets are available in various formats (CSV, Excel, etc.). For this example, let’s assume you have a CSV file containing your data.Use data loading libraries (such as Pandas) to load your dataset into memory
 
-#### Explore the Data:
+### Explore the Data:
 
 ####    Understand the structure of your dataset by examining its columns, data types, and summary statistics.
 
-#### Preprocess the Data:
+### Preprocess the Data:
 
 ####    Handle missing values, outliers, and categorical variables. Split the dataset into training and testing subsets.
 
-#### Choose a Machine Learning Model:
+### Choose a Machine Learning Model:
 
 ####    Depending on the problem we need to select the ML model. In our project we need to use classification models to train the algorithem. Machine Learning modles we use in this project include logistic regression, decision trees, gradient boosting classifier, random forests.
 
-#### Train the Model:  
+### Train the Model:  
 ####    Fit the chosen model to the training data using the .fit() method.
 
-#### Model Evaluation:
+### Model Evaluation:
 ####    Model evaluation done by classification and report was saved to .ipynb file.
 
-#### Model Saving:
+### Model Saving:
 ####    we will save our models that we can use them for prediction purpose.
 
-#### Present Results:
+### Present Results:
 
-####    Now if we give the news as input the four machine learning models able to find whether the news given as input is fake news or not a fake news.
+####    When provided with news input, four machine learning models are capable of determining whether the given news is authentic or fabricated.
 
